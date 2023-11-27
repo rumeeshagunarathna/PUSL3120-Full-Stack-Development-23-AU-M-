@@ -1,1 +1,1 @@
-# PUSL3120-Full-Stack-Development-23-AU-M-
+# PUSL3120-Full-Stack-Development
